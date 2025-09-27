@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Roan André de Souza
 
-🚀 Engenheiro de Dados Jr na [V.tal](https://www.vtal.com)  
+🚀 Engenheiro de Dados na [V.tal](https://www.vtal.com)  
 📊 Experiência anterior como Analista de Dados na Blueshift  
 💡 Apaixonado por dados, pipelines de ETL, modelagem e soluções em Cloud (GCP | Azure).
 
